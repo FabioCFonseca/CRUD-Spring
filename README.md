@@ -9,10 +9,10 @@
     <li>IDE IntelliJ</li>
     <li>Java 11</li>
     <li>Maven</li>
-    <li><strong>Spring Web</strong></li>
-    <li><strong>Spring Data JPA</strong></li>
-    <li><strong>PostgreSQL Driver</strong></li>
-    <li><strong>Hibernate Validator</strong></li>
+    <li>Spring Web</li>
+    <li>Spring Data JPA</li>
+    <li>PostgreSQL Driver</li>
+    <li>Hibernate Validator</li>
     <li>Lombok</li>
     <li>Postman</li>
 </ul>
